@@ -1,12 +1,13 @@
-07874ff41c31801cd626c8c3bf784fd2 *DESCRIPTION
+4f72c7b64e11845e345df7e87e8c732d *DESCRIPTION
 a3ea5304c2025ab3689da4dbeefbd1dc *NAMESPACE
-d0eafc8da5041a8cc1b076d2eaaed3c6 *NEWS.md
+85cf3f3a4bd9a58fd2769ec89b87ab10 *NEWS.md
 dcc6724fadbede0be4cc4def20838f99 *R/comTS.R
-595ca4844fe976a1ddc47aff49bba804 *R/partitionR.R
+185e7813b4a3cfb6ca60434694742fbc *R/partitionR.R
 a6f0e9d96a6f0031f392416592a8917e *R/plot.R
 d59e6aa3216696df7572ebeb7c5d68f6 *R/ternStab.R
 f386dc531a609b1fe7221e9c94e83e77 *README.md
+810dbb6f7559ed6547950ee1834d942a *inst/CITATION
 5d30f816cfb3dab43dc5c36e13934661 *man/comTS.Rd
-fff57a979ff0453eac5053b4dbd84211 *man/partitionR.Rd
+3ca78fc258cac33dc5c54ad46b3dd82e *man/partitionR.Rd
 a5a37f234d48c74f8d857de0452b7302 *man/plot.comstab.Rd
 457494df391843506dd911fabd702ba6 *man/ternStab.Rd

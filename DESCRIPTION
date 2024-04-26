@@ -1,6 +1,6 @@
 Package: comstab
 Title: Partitioning the Drivers of Stability of Ecological Communities
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: 
     person("Jules", "Segrestin", , "jsegrestin@gmail.com", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "0000-0001-7661-6061"))
@@ -14,9 +14,9 @@ Imports: graphics, stats, Ternary
 Encoding: UTF-8
 RoxygenNote: 7.3.1
 NeedsCompilation: no
-Packaged: 2024-03-14 13:48:23 UTC; jsegrestin
+Packaged: 2024-04-26 12:34:39 UTC; jsegrestin
 Author: Jules Segrestin [aut, cre, cph]
     (<https://orcid.org/0000-0001-7661-6061>)
 Maintainer: Jules Segrestin <jsegrestin@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-03-14 15:30:05 UTC
+Date/Publication: 2024-04-26 12:50:10 UTC
